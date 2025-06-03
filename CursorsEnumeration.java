@@ -1,4 +1,4 @@
-package collection;
+//package collection;
 
 import java.util.Enumeration;
 import java.util.Stack;
